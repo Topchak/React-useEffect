@@ -1,0 +1,11 @@
+.button{
+  padding: 10px 30px;
+  width: fit-content;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: lightcoral;
+  color: white;
+  
+}
